@@ -1,2 +1,2 @@
-# youtube-shortskeys
+# YouTube-ShortsKeys
 YouTube ShortsKeys
