@@ -1,4 +1,4 @@
 # YouTube-ShortsKeys
 Extenion for YouTube Shorts
-#Features
-Change the button in main.js
+
+You can change the button in main.js
