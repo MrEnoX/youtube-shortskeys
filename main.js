@@ -18,6 +18,7 @@
 console.log("YouTube ShortsKeys")
  
 //for key codes look here: https://www.toptal.com/developers/keycode
+// HERE IS FOR CHANGING THE KEYS YOU WANT TO USE
 const upkey = "ArrowLeft";
 const downkey = "ArrowRight";
  
