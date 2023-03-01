@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube ShortsKeys
 // @namespace    https://github.com/MrEnoX/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Adds ArrowRight and ArrowLeft keys to YouTube Shorts same as ArrowUp and ArrowDown!
 // @author       MrEnoX
 // @homepage     https://github.com/MrEnoX/youtube-shortskeys/
