@@ -1,7 +1,7 @@
 # YouTube-ShortsKeys
 Extension for YouTube Shorts
 
-You can change the keys in main.js
+### You can change the keys in main.js
 
 ## Tempermonkey
 ### [GreasyFork](https://greasyfork.org/en/scripts/460989-youtube-shortskeys)
