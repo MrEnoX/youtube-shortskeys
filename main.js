@@ -30,7 +30,7 @@ document.addEventListener("keydown", function(event) {
 
 document.addEventListener("keyup", function(event) {
   if (event.code === downkey) {
-    const shortsContainer = document.querySelector("#shorts-container");	
+    const shortsContainer = document.querySelector("#shorts-container");
     if (shortsContainer) {
       shortsContainer.scrollBy(0, -100);
 	  console.log("UP")
