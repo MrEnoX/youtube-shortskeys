@@ -10,9 +10,13 @@
       "js": ["main.js"]
     }
   ],
-  "permissions": [ "*://*.youtube.com/*" ],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "YouTube ShortsKeys"
+    "default_title": "YouTube ShortsKeys",
+	"default_icon": {
+         "16": "icon.png",
+         "24": "icon.png",
+         "32": "icon.png"
+      }
   }
 }
