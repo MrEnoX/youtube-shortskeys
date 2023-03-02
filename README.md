@@ -10,4 +10,5 @@ Extension for YouTube Shorts
 
 ## Tempermonkey
 ### [GreasyFork](https://greasyfork.org/en/scripts/460989-youtube-shortskeys)
+#### [UserScript](https://raw.githubusercontent.com/MrEnoX/youtube-shortskeys/main/main.js)
 You can use raw of the main.js for tempermonkey script
