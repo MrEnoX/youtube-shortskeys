@@ -7,7 +7,7 @@ You can change the keys in main.js
 
 ## Extension
 ### [MS Edge Addons](https://microsoftedge.microsoft.com/addons/detail/youtube-shortskeys/ghcpkidjiebbkfkkdjbafejbjmpghphg)
-###  
+### [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/youtube-shortskeys/)
 
 ## UserScript
 ### [Script](https://raw.githubusercontent.com/MrEnoX/youtube-shortskeys/main/main.js)
